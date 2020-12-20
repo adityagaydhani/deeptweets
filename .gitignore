@@ -1,0 +1,4 @@
+scripts/twitter_keys.json
+models/GPT2/runs/*
+models/GPT2/wandb/*
+models/GPT2/.ipynb_checkpoints
